@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.p-toast.p-toast-top-right {
+    z-index: 1000;
+    top: 7rem;
+}
